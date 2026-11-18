@@ -1,0 +1,3109 @@
+[
+  {
+    "candidate_id": "ab076995f1f43189",
+    "title": "- Expoplanner",
+    "url": "https://www.biec.in/event-service.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "- Expoplanner",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f20f5ecd1e21cb3f",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/acetech-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "e51b39b9f8890bad",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/agritech-india-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "37302a5fc8792e42",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/elasia-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "69421886c61f7bd6",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/fi-india-propak-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "598d947b5a5c3d81",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/green-vehicle-expo-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5158474a7db5e214",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/imtex-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d21915dfcec91de6",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/india-matteresstech-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "53e4db6a053bff8f",
+    "title": "<< Previous Event",
+    "url": "https://www.biec.in/Calendar_event/2k24/roof-india-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "<< Previous Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "db94dfef03146f58",
+    "title": "Acetech",
+    "url": "https://www.biec.in/Calendar_event/2k25/acetech.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Acetech",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "864a8c303b576248",
+    "title": "Acetech",
+    "url": "https://www.biec.in/Calendar_event/2k26/acetech.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Acetech",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "481e2342ff81da54",
+    "title": "ACETECH 2024",
+    "url": "https://www.biec.in/Calendar_event/2k24/acetech-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "ACETECH 2024",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "1e378dc99b2e968e",
+    "title": "ACREX India 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/acrex-2025.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "ACREX India 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "42d6c7e122039fc5",
+    "title": "After huge success MATECIA and SURFACES REPORTER Architecture Event are back to Kolkata | 12+ States, 100+ markets | Rise with Rising Power of East & Northeast India",
+    "url": "https://www.matecia.com/after-huge-success-matecia-and-surfaces-reporter-architecture-event-are-back-to-kolkata-12-states-100-markets-rise-with-rising-power-of-east-northeast-india-a-press-report",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "After huge success MATECIA and SURFACES REPORTER Architecture Event are back to Kolkata | 12+ States, 100+ markets | Rise with Rising Power of East & Northeast India Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "b0c6309b27d24710",
+    "title": "Agritech",
+    "url": "https://www.biec.in/Calendar_event/2k25/agritech.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Agritech",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5c71314595e2a4ac",
+    "title": "Agritech\n\n                                India",
+    "url": "https://www.biec.in/Calendar_event/2k24/agritech-india-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Agritech India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "db2118b98a70035f",
+    "title": "Apparel Manufacturing of India",
+    "url": "https://www.biec.in/Calendar_event/2k25/apparel_manufacturing.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Apparel Manufacturing of India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5e4cdefbee76ff75",
+    "title": "Asia Lab Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/asia-lab-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Asia Lab Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "b0ac42bfe4a12262",
+    "title": "Asia Labex",
+    "url": "https://www.biec.in/Calendar_event/2k26/asia-labex.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Asia Labex",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0fe2d7143047ddf5",
+    "title": "Bakery and Kitchen Equipment Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/Bakery-and-Kitchen-Equipment-Expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bakery and Kitchen Equipment Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "00185973ed826e25",
+    "title": "Bangalore Space Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/bangalore-space-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bangalore Space Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "fca97a160b985681",
+    "title": "Bangalore Tech Summit",
+    "url": "https://www.biec.in/Calendar_event\\2k25\\bangalore-tech-summit.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bangalore Tech Summit",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f31616b22d137508",
+    "title": "Bharat Drone Stack Conference 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/Bharath-drone.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bharat Drone Stack Conference 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "1d9ca7facc9b4e19",
+    "title": "Bharat Print Expo 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/bharat-print-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bharat Print Expo 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "16acbdd7e7371c20",
+    "title": "Conference Centre",
+    "url": "https://www.biec.in/conference_centre",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Conference Centre",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f77ff4bec848cfbb",
+    "title": "Conference Centre",
+    "url": "https://www.biec.in/confrence_centre",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Conference Centre",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "cf2fc1ba49fca5e8",
+    "title": "Conference India",
+    "url": "https://www.biec.in/Calendar_event\\2k26\\we_are_developers.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Conference India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d8f0f57a0e2e4bd5",
+    "title": "D-arc Build 2024",
+    "url": "https://www.biec.in/Calendar_event/2k24/d-arc-build-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "D-arc Build 2024",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d5e624fc46051617",
+    "title": "D-arc Build 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/d-arc-build.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "D-arc Build 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "e527c919cdd52b6a",
+    "title": "Dairy Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/dairy-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Dairy Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "031160b97794db53",
+    "title": "Doors Windows and Facades Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/door-and-window.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Doors Windows and Facades Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "98ddeb50fb6b236c",
+    "title": "Drone Expo & Conference",
+    "url": "https://www.biec.in/Calendar_event/2k26/drone-expo-conference.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Drone Expo & Conference",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d77723b809831519",
+    "title": "ELASIA",
+    "url": "https://www.biec.in/Calendar_event/2k26/elasia.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "ELASIA",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "73bd3acfc679893c",
+    "title": "Elcina",
+    "url": "https://www.biec.in/Calendar_event/2k25/elcina.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Elcina",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "fbf99a9fdbeb5f37",
+    "title": "ELCINA",
+    "url": "https://www.biec.in/Calendar_event/2k26/elcina.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "ELCINA",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "428ce2f341877306",
+    "title": "Electronica India",
+    "url": "https://www.biec.in/Calendar_event/2k25/electronica-India.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Electronica India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0f0726ff4beb8e65",
+    "title": "Electronica- Productronica",
+    "url": "https://www.biec.in/Calendar_event/2k26/electronica-productronica.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Electronica- Productronica",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "065c0de700416bd1",
+    "title": "Event Services",
+    "url": "https://www.biec.in/Calendar_event/2k24/event-service",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Event Services",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8f33f47fd2fc0a41",
+    "title": "Event Services",
+    "url": "https://www.biec.in/Calendar_event/2k25/event-service",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "20fe610b5d5c9c0d",
+    "title": "Event Services",
+    "url": "https://www.biec.in/event-service",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Event Services",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "32fa01258f7b7924",
+    "title": "Excon",
+    "url": "https://www.biec.in/Calendar_event/2k25/excon.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Excon",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8321b1ccafc0efda",
+    "title": "Exhibition Complex",
+    "url": "https://www.biec.in/exhibition_complex",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Exhibition Complex",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4597e0da95d6a5b9",
+    "title": "Exhibition Venue",
+    "url": "https://www.matecia.com/exhibition-venue",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "Exhibition Venue",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "491907bd41a2595e",
+    "title": "Expodent",
+    "url": "https://www.biec.in/Calendar_event/2k25/expo-dent.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Expodent",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "87d232087663da37",
+    "title": "Expodent",
+    "url": "https://www.biec.in/Calendar_event/2k26/expodent.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Expodent",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bbef79ea8da3d5b8",
+    "title": "FI India\n\n                                and Propak",
+    "url": "https://www.biec.in/Calendar_event/2k24/fi-india-propak-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "FI India and Propak",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f8807e1e2714a629",
+    "title": "Food Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/food_expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Food Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "26d86ea0e2484dc4",
+    "title": "Franchise India",
+    "url": "https://www.biec.in/Calendar_event/2k26/franchise-india.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Franchise India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d570f3d259f09ec6",
+    "title": "FREX: Franchise - Retail - Scale.",
+    "url": "https://www.biec.in/Calendar_event/2k25/fro-expo",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "FREX: Franchise - Retail - Scale.",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2846ef060288348b",
+    "title": "Google",
+    "url": "https://www.biec.in/Calendar_event/2k25/google.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Google",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a0661b26d19c365e",
+    "title": "Google",
+    "url": "https://www.biec.in/Calendar_event/2k26/google_july-14.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Google",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "cb63ad25a08df886",
+    "title": "Google Hackathon",
+    "url": "https://www.biec.in/Calendar_event/2k25/google-hackathon.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Google Hackathon",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5b3bb3797cf3cd08",
+    "title": "Grace Hopper Celebration India 2024",
+    "url": "https://www.biec.in/Calendar_event/2k24/AnitaB-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Grace Hopper Celebration India 2024",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8f1485e87e22d9e7",
+    "title": "Grand Success of MATECIA Exhibition & SURFACES REPORTER Architecture Event in Kolkata shows the Rising Power of East & Northeast India | Post Event Report",
+    "url": "https://www.matecia.com/grand-success-of-matecia-exhibition-surfaces-reporter-architecture-event-in-kolkata-shows-the-rising-power-of-east-northeast-india-post-event-report",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "Grand Success of MATECIA Exhibition & SURFACES REPORTER Architecture Event in Kolkata shows the Rising Power of East & Northeast India | Post Event Report Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6417d14eeb22eae0",
+    "title": "Green Building Congress 2024",
+    "url": "https://www.biec.in/Calendar_event/2k24/Green-Building-Congress-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Green Building Congress 2024",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d98927b28fd1f1ca",
+    "title": "Green Energy India Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/India-Green-Energy-Expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Green Energy India Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "15e09319e5f69bb7",
+    "title": "Green Vehicle Expo",
+    "url": "https://www.biec.in/Calendar_event/2k24/green-vehicle-expo-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Green Vehicle Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "08c54bfa5e724f4e",
+    "title": "Green Vehicle Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/green-vehicle-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Green Vehicle Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "aec38c9b3e734353",
+    "title": "HBLF",
+    "url": "https://www.biec.in/Calendar_event/2k26/hblf.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "HBLF",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2e9f771c64f5b2fe",
+    "title": "Herbalife Extravaganza",
+    "url": "https://www.biec.in/Calendar_event/2k24/herbalife_2k24",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Extravaganza",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0444360f39f930fa",
+    "title": "Herbalife Extravaganza",
+    "url": "https://www.biec.in/Calendar_event/2k25/herbalife-extravaganza.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Extravaganza",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "81522c1b70bc3874",
+    "title": "Herbalife Extravaganza",
+    "url": "https://www.biec.in/Calendar_event/2k25/herbalife-spectacular.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Extravaganza",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5ec5e796e788cc8e",
+    "title": "Herbalife Extravaganza",
+    "url": "https://www.biec.in/Calendar_event/2k26/herbalife-extravaganza.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Extravaganza",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5d956d56b955db84",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k24/herbalife_future_business_builders.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "85bd1dfe5d41376b",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k25/herbalife-fbb-oct.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bcb90fffe3f9cfe8",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k25/herbalife-fbb.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d22e91b635147abb",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k25/herbalife-future-business-builders.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "980ad5cd814add56",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k26/herbalife-future-business-builders.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "19a2a03b7db9a899",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k26/herbalife-future-business-june-20-builders.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "92e7e2411b813571",
+    "title": "Herbalife Future Business Builders",
+    "url": "https://www.biec.in/Calendar_event/2k26/herballife-oct-23.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Future Business Builders",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2684a8079c9ef618",
+    "title": "HGH",
+    "url": "https://www.biec.in/Calendar_event/2k25/hgh.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "HGH",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "387551188f3c4caf",
+    "title": "Hindustan International Furniture Fair",
+    "url": "https://www.biec.in/Calendar_event/2k26/hiff.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Hindustan International Furniture Fair",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "ded06a67396f7ff8",
+    "title": "Horti Connect",
+    "url": "https://www.biec.in/Calendar_event/2k25/horti-connect.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Horti Connect",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "5d02a372724da517",
+    "title": "How MATECIA Exhibition Connects Manufacturers, Dealers, and Decision-Makers",
+    "url": "https://www.matecia.com/how-matecia-exhibition-connects-manufacturers-dealers-and-decision-makers",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "How MATECIA Exhibition Connects Manufacturers, Dealers, and Decision-Makers Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "18b0170e4dbf715f",
+    "title": "HYROX - Fitness Shaping Event",
+    "url": "https://www.biec.in/Calendar_event/2k26/hyrox-fitness-shaping-event.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "HYROX - Fitness Shaping Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6ef4b8f87323c66e",
+    "title": "IFC&IFEX",
+    "url": "https://www.biec.in/Calendar_event/2k24/ifc-ifex-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IFC&IFEX",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "560381fd10999d5f",
+    "title": "IIJS",
+    "url": "https://www.biec.in/Calendar_event/2k25/IIJS.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IIJS",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a1ad7d3ec93baace",
+    "title": "IIJS Tritiya 2024",
+    "url": "https://www.biec.in/Calendar_event/2k24/iijs-tritiya-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IIJS Tritiya 2024",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f39a76690f3d251c",
+    "title": "IIJS Tritiya and IGJME Tritiya 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/IIJS_tritiya_and_IGJME_titiya.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IIJS Tritiya and IGJME Tritiya 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f7b977905739e436",
+    "title": "IIR Conference",
+    "url": "https://www.matecia.com/iir-conference",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "IIR Conference",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "43720da9cf2cbe6d",
+    "title": "IMTEX, Tooltech & Digital Manufacturing 2025",
+    "url": "https://www.biec.in/Calendar_event/2k25/imtex-2025",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IMTEX, Tooltech & Digital Manufacturing 2025",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "e63d3d5957e97e98",
+    "title": "INDEXPLUS",
+    "url": "https://www.biec.in/Calendar_event/2k25/indexplus.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "INDEXPLUS",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d97356d08290f5b0",
+    "title": "India Automation & Robotics Expo, Warehouse Logistic & Material Handling Expo, India Information Technology Expo, Cyber Security Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/india-automation-robotics-warehouse-logistics-material-handling-it-cyber-security-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Automation & Robotics Expo, Warehouse Logistic & Material Handling Expo, India Information Technology Expo, Cyber Security Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "107ceb1147dac736",
+    "title": "India Furniture Conclave",
+    "url": "https://www.matecia.com/india-furniture-conclave",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "India Furniture Conclave",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "ed403cc171f5c1d8",
+    "title": "India Green Energy Expo",
+    "url": "https://www.biec.in/Calendar_event/2k24/ige-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Green Energy Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f098762f0b2d4503",
+    "title": "India Green Energy Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/India-Green-Energy-Expo-media.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Green Energy Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2fa4ff21adf6fc3d",
+    "title": "India Green Energy Expo/ Green Vehicle Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/green-vehicle-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Green Energy Expo/ Green Vehicle Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6653a53a538d8b81",
+    "title": "India Manufacturing Show",
+    "url": "https://www.biec.in/Calendar_event/2k25/india-manufacturing-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Manufacturing Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bd2abf429b78afd0",
+    "title": "India Mattresstech Expo",
+    "url": "https://www.biec.in/Calendar_event/2k24/india-matteresstech-expo",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Mattresstech Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "319f29f568872ca4",
+    "title": "India Paint & Coating Expo, Doors Windows & Facades Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/doors-windows-and-facades-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Paint & Coating Expo, Doors Windows & Facades Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "c260209a5d3cbcc9",
+    "title": "India Paint and Coating Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/paint-and-coating.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Paint and Coating Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2a926ee5e82e883b",
+    "title": "Indian Institute of Welding Conference",
+    "url": "https://www.biec.in/Calendar_event/2k24/iiw-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Indian Institute of Welding Conference",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "51c0595eaf63f1c4",
+    "title": "Indian Pharma Congress",
+    "url": "https://www.biec.in/Calendar_event/2k25/indian-pharma-congress.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Indian Pharma Congress",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "029d6389db09ffc9",
+    "title": "Indian Surface Finishing",
+    "url": "https://www.biec.in/Calendar_event/2k25/indian-surface-finishing.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Indian Surface Finishing",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "87e22009fd458a6c",
+    "title": "IndiaWood",
+    "url": "https://www.biec.in/Calendar_event/2k24/indiawood-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IndiaWood",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2ee267c62a312d84",
+    "title": "Indiawood",
+    "url": "https://www.biec.in/Calendar_event/2k25/Indiawood.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Indiawood",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a051558ec2aab348",
+    "title": "Karnataka International Travel Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/karnataka-international-travel-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Karnataka International Travel Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "90a38f06e5ede361",
+    "title": "KPLEX",
+    "url": "https://www.biec.in/Calendar_event/2k24/Kplex-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "KPLEX",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "547b693e3e084aa3",
+    "title": "Levis Show",
+    "url": "https://www.biec.in/Calendar_event/2k25/levis-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Levis Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "e9ea88391b6cd0db",
+    "title": "Levis Show",
+    "url": "https://www.biec.in/Calendar_event/2k25/levis_show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Levis Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d8c9ed25f48a0eb7",
+    "title": "Levis Show",
+    "url": "https://www.biec.in/Calendar_event/2k26/levis-show-july-23.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Levis Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "b681cbfd4fdbe7f0",
+    "title": "Levis Show",
+    "url": "https://www.biec.in/Calendar_event/2k26/levisshow.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Levis Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6508c816507328df",
+    "title": "Levis Show",
+    "url": "https://www.biec.in/events",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Levis Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0633f1772a3728eb",
+    "title": "LWOP",
+    "url": "https://www.biec.in/Calendar_event/2k26/lwop.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "LWOP",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "3acd479cd173d7e8",
+    "title": "MATECIA",
+    "url": "https://www.biec.in/Calendar_event/2k25/metecia.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "MATECIA",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "847d0925378bfc0a",
+    "title": "MATECIA Exhibition",
+    "url": "https://www.matecia.com/tag/matecia-exhibition",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "Tags: MATECIA Exhibition",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a0fedff51f78cb28",
+    "title": "MATECIA National Event",
+    "url": "https://www.matecia.com/matecia-national-event",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "MATECIA National Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "9723778bdd60a594",
+    "title": "MATECIA National Event",
+    "url": "https://www.matecia.com/media-press-national-event",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "MATECIA National Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d439086035443ae0",
+    "title": "Material and Technology Conclave",
+    "url": "https://www.matecia.com/material-and-technology-conclave",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "Material and Technology Conclave",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "28ae266455c754dc",
+    "title": "Mattress Tech Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/mattress-tech-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Mattress Tech Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4a6d683104e06ee8",
+    "title": "Microsoft AI Tour",
+    "url": "https://www.biec.in/Calendar_event/2k25/microsoft_ai_tour.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Microsoft AI Tour",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6dde9038f6886616",
+    "title": "Moldex and Fastnex India",
+    "url": "https://www.biec.in/Calendar_event/2k25/moldex-fastnex.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Moldex and Fastnex India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "125396a39d5dba33",
+    "title": "National Edition MATECIA Exhibition and THE WADE ASIA Architecture Event Saw Massive Success, 350+ Brands, 65000+ Visitors, 700+ Towns & Cities",
+    "url": "https://www.matecia.com/national-edition-matecia-exhibition-and-the-wade-asia-architecture-event-saw-massive-success-350-brands-65000-visitors-700-towns-cities",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "National Edition MATECIA Exhibition and THE WADE ASIA Architecture Event Saw Massive Success, 350+ Brands, 65000+ Visitors, 700+ Towns & Cities Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bc136466caba1275",
+    "title": "National Event 2023",
+    "url": "https://www.matecia.com/matecia-national-event-2023",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "National Event 2023",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8b675d70db57ae1e",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/Smart Lift & Mobility Expo-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4e3e70c3c0a3a7a0",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/d-arc-build-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0c22fa0dba120197",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/ifc-ifex-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "1fc370e728a1f51d",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/ige-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Next Event >>",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f3c18f76961a89ea",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/iijs-tritiya-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Next Event >>",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a9edc2e5ccca3d02",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/osh-india-south.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Next Event >>",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bd95f723de2cba09",
+    "title": "Next Event >>",
+    "url": "https://www.biec.in/Calendar_event/2k24/pack-plus-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Next Event >>",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bb3c8d8b373f29bf",
+    "title": "Open Line Array Demo",
+    "url": "https://www.palmexpodelhi.com/event-highlights/open-line-array-demo",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "palm-delhi"
+    ],
+    "observed_date_city_text": "Event highlights Open Line Array Demo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2e80b6b2510e7e8b",
+    "title": "OSH India South",
+    "url": "https://www.biec.in/Calendar_event/2k24/osh-india-south",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "OSH India South",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d0cede36df50b55e",
+    "title": "Pharmatech and Labtech Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/pharmatech_expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Pharmatech and Labtech Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "f778d60a8f25ee7e",
+    "title": "PLASTASIA (4)- IDMEX (5)",
+    "url": "https://www.biec.in/Calendar_event/2k25/plastasia-2025.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "PLASTASIA (4)- IDMEX (5)",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "379fdfbb6405fc8f",
+    "title": "Plumbex India",
+    "url": "https://www.biec.in/Calendar_event/2k26/plumbex.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Plumbex India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "6e7148aec753be6b",
+    "title": "Post show Report",
+    "url": "https://cewexpo.com/post-show-report",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "cew"
+    ],
+    "observed_date_city_text": "Post show Report",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "2190fecab6e664e5",
+    "title": "Post Show Report 2025 – Delhi",
+    "url": "https://www.gartexindia.com/post-show-report-delhi",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "Post Show Report 2025 – Delhi",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4fa9f89fbc82c4cc",
+    "title": "Post Show Report 2025 – Mumbai",
+    "url": "https://www.gartexindia.com/post-show-report-mumbai",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "Post Show Report 2025 – Mumbai",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "bee58c65ad850716",
+    "title": "Poultry Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/poultry-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Poultry Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "78ed427f22ffd2c3",
+    "title": "Print and Packaging Expo, Label and Bar Code Expo, Paper India Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/print-packaging-label-barcode-paper-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Print and Packaging Expo, Label and Bar Code Expo, Paper India Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "7cbe4679d8a6de73",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/bengaluru-space-expo-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bengaluru Space Expo 2024 Confederation of Indian Industry September 18 - September 20, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "801b1e666c28d104",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/elasia-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "ELASIA Triune Exhibitors Pvt. Ltd. May 24 - 26, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "b1a69f035d5c2627",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/expodent-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Expodent Association of Dental Industry and Trade of India (ADITI) September 21 - September 22, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "485fe3e7d51fc796",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/herbalife-2k24.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Herbalife September 10, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "c0127ffa11bb4410",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/herbalife_fit_family_fest.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Herbalife Fit Family Fest Herbalife December 15, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4c52d8c6a1e01f24",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/hgh-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "HGH India 2024 Texzone Information Services Pvt. Ltd Dec 03 - 06, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8f46b43430905ea8",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/imtex-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IMTEX FORMING 2024 / Tooltech 2024 IMTMA January 19 - 23, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "4e9042086ae838ea",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/nttf-2024.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "NTTF Nettur Technical Training Foundation Dec 07th, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "8846c5da69a01121",
+    "title": "Read More",
+    "url": "https://www.biec.in/Calendar_event/2k24/pack-plus-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "PackPlus South Reed Exhibitions Apr 27 - 29, 2024 9:00am - 6:00pm Bengaluru, Karnataka Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "b007b4588d1f9e31",
+    "title": "Roof India",
+    "url": "https://www.biec.in/Calendar_event/2k24/roof-india-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Roof India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "cf0d773241d47722",
+    "title": "Roof India",
+    "url": "https://www.biec.in/Calendar_event/2k26/roof-india.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Roof India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d2c5a95d6b9d4560",
+    "title": "Salesforce - TrailheaDX India 2025.",
+    "url": "https://www.biec.in/Calendar_event/2k25/salesforce-trailheadx.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Salesforce - TrailheaDX India 2025.",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "25ac65263f945bd6",
+    "title": "Salesforce Hackathon",
+    "url": "https://www.biec.in/Calendar_event/2k25/salesforce-hackathon.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Salesforce Hackathon",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "10aa36b2c244d2cd",
+    "title": "SAP TechEd",
+    "url": "https://www.biec.in/Calendar_event/2k25/sap-teched.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "SAP TechEd",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0bb7ca1bea7ba061",
+    "title": "Show Features",
+    "url": "https://www.gartexindia.com/show-features",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "Show Features",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d680f4e4eb643780",
+    "title": "Silver Show - Gold",
+    "url": "https://www.biec.in/Calendar_event/2k25/silver-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Silver Show - Gold",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "068ce40d184d9324",
+    "title": "SILVER SHOW OF INDIA",
+    "url": "https://www.biec.in/Calendar_event/2k24/ssi.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "SILVER SHOW OF INDIA",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "e9f21c09c01959f8",
+    "title": "Silver Show Of India",
+    "url": "https://www.biec.in/Calendar_event/2k25/silver-show-dec.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Silver Show Of India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d1648271c6499a8e",
+    "title": "Smart Lift & Mobility Expo",
+    "url": "https://www.biec.in/Calendar_event/2k24/Smart Lift & Mobility Expo-2024",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Smart Lift & Mobility Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "23fb19ae5c9a09be",
+    "title": "South Jewellery Show",
+    "url": "https://www.biec.in/Calendar_event/2k26/south-jeweller-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "South Jewellery Show",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d0c6b057e400a9c8",
+    "title": "SR Architecture Event",
+    "url": "https://www.matecia.com/sr-architecture-event",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "SR Architecture Event",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "632c253c79c0cbec",
+    "title": "STONA",
+    "url": "https://www.biec.in/Calendar_event/2k25/stona.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "STONA",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "174d047e642e5a5b",
+    "title": "Summit",
+    "url": "https://idacexpo.in/summit",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "idac"
+    ],
+    "observed_date_city_text": "Summit",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "821e7e6d27304816",
+    "title": "Target in India Annual Meeting (TIIAM)",
+    "url": "https://www.biec.in/Calendar_event/2k25/target.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Target in India Annual Meeting (TIIAM)",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "0fa024779baa7781",
+    "title": "Target India Annual Meet",
+    "url": "https://www.biec.in/Calendar_event/2k26/target.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Target India Annual Meet",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "eb0de54a4b85cd47",
+    "title": "Tata Small Commercial Vehicle Test Drive Expo",
+    "url": "https://www.biec.in/Calendar_event/2k25/tata-motors.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Tata Small Commercial Vehicle Test Drive Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "19a08b3b22885be7",
+    "title": "The Show",
+    "url": "https://cewexpo.com/faqs",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "cew"
+    ],
+    "observed_date_city_text": "The Show About The Show Market Overview Fact Sheet Show Preview 2027 About the Organiser Advertising & Promotion FAQs",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "ad3e39025e7ac634",
+    "title": "The Show",
+    "url": "https://www.gartexindia.com/",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "The Show About The Show Show Preview – Delhi 2027 Show Preview – Mumbai 2027 Show Preview – Kolkata 2027 Floor Plan Delhi 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "c25c8bbb8b6710be",
+    "title": "Udyami Bharath",
+    "url": "https://www.biec.in/Calendar_event/2k26/udyami-bharat.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Udyami Bharath",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "389ef00457029d48",
+    "title": "WADE Conference",
+    "url": "https://www.matecia.com/wade-conference",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "WADE Conference",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "a4553e06171c64b8",
+    "title": "Zak Fenestration India Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/zak-fenestration-india-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Zak Fenestration India Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "d86b522556caa870",
+    "title": "– Show Highlights",
+    "url": "https://cewexpo.com/show-highlights",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "cew"
+    ],
+    "observed_date_city_text": "– Show Highlights",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": ""
+  },
+  {
+    "candidate_id": "738f22b4319dbe4c",
+    "title": "& Polymeters Exhibition - IPPE 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "& Polymeters Exhibition - IPPE 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "a6684eb26bb04c6e",
+    "title": "(IILF) 2027 Feb 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "(IILF) 2027 Feb 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "ace18ac05ae61e23",
+    "title": "13, 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "13, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "7d106c1fa680ec5a",
+    "title": "19th edition of IIJS Signature 2027!",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "19th edition of IIJS Signature 2027!",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "2adb06d703dfac43",
+    "title": "2026 Expo",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "2026 Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "cfb3d25ede9f8777",
+    "title": "2027 Manufacturers Association",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "2027 Manufacturers Association",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "aef7601dcec2a652",
+    "title": "23, 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "23, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "0c908683e73fea98",
+    "title": "24. 50th India Carpet Expo April 11- 14,2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "24. 50th India Carpet Expo April 11- 14,2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f448d3dd43653964",
+    "title": "24. 50th India Carpet Expo April 11- 14,2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "24. 50th India Carpet Expo April 11- 14,2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "fdca469452fe86f5",
+    "title": "25, 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "25, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "a6b7c4b51010e76b",
+    "title": "28, 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "28, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "b791b61bbd6e6deb",
+    "title": "30. GPEX Expo 2026 Jun 4–6, 2026 Yashobhoo mi (IICC), New Delhi",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "30. GPEX Expo 2026 Jun 4–6, 2026 Yashobhoo mi (IICC), New Delhi",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "98f178a02c8e9d65",
+    "title": "30. GPEX Expo 2026 Jun 4–6, 2026 Yashobhoo mi (IICC), New Delhi",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "30. GPEX Expo 2026 Jun 4–6, 2026 Yashobhoo mi (IICC), New Delhi",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "80c2e27e83a955d6",
+    "title": "50. Plastivision India 2027 Jan 21– 25, 2027",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "50. Plastivision India 2027 Jan 21– 25, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "88e01d3f796be100",
+    "title": "7 Medical Fair India 2027",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "7 Medical Fair India 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "1f50cccd1300a13d",
+    "title": "9 Greenovation Expo 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "9 Greenovation Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "afe2bae315643b80",
+    "title": "A-2027 –",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "A-2027 –",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "8d0a0ac5ee3f8de5",
+    "title": "Agarbatti & Perfume Expo 2026",
+    "url": "https://www.biec.in/Calendar_event/2k26/agarbathi-show.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Agarbatti & Perfume Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "812569037f07083f",
+    "title": "AgriCon India, Horticonnect India",
+    "url": "https://www.biec.in/Calendar_event/2k26/agriconindia2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "AgriCon India, Horticonnect India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "45cbd7c7b92c263e",
+    "title": "Bengaluru Tech Summit 2026",
+    "url": "https://www.biec.in/Calendar_event\\2k26\\bangalore-tech-summit-2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Bengaluru Tech Summit 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "346dab213e47207e",
+    "title": "Calendar of Events/Trade Fairs in 2026 and 2027 in India",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Calendar of Events/Trade Fairs in 2026 and 2027 in India",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "13edf059fcedd430",
+    "title": "Conference (WEC 2026); Green India",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Conference (WEC 2026); Green India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "5724c3a075dcbafa",
+    "title": "D-arc Build 2026",
+    "url": "https://www.biec.in/Calendar_event/2k26/d-arc-build.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "D-arc Build 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "8a7b6ca115b99c09",
+    "title": "Didac India 2026 & Didac Skills 2026",
+    "url": "https://www.biec.in/Calendar_event/2k26/didac-india.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Didac India 2026 & Didac Skills 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f32415e13e76a447",
+    "title": "Event 2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Event 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "62c7508cc393f701",
+    "title": "Event 2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "Event 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "2190eee9874ffa20",
+    "title": "Expo 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "464734b9c6071a40",
+    "title": "Expo 2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "d1d8e1410dc04b6a",
+    "title": "Expo 2026",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "dc9b473a2c2ffa74",
+    "title": "Expo 2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f78f778f7696e980",
+    "title": "Expo 2027",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Expo 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "a949acf0833a0811",
+    "title": "Expo) 2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Expo) 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "47edde60f3b9ca0f",
+    "title": "Expo) 2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "Expo) 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "c6f1fefffb7f799d",
+    "title": "expo-mumbai-2026?",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "expo-mumbai-2026?",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "2a3122f3157c23da",
+    "title": "Fair - 2026,",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Fair - 2026,",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "6018ab239dbbc570",
+    "title": "Fair - 2026,",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "Fair - 2026,",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "04469b5e78ea1e90",
+    "title": "FAIR 2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "FAIR 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "5f5a7fd0ff188f16",
+    "title": "Fair 2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "Fair 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "41af161f6f07bf54",
+    "title": "FAIR 2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "FAIR 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "76794d64d8aa266c",
+    "title": "Fair 2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "Fair 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "43a330da1bd23668",
+    "title": "IMTEX FORMING 2026 / Tooltech 2026",
+    "url": "https://www.biec.in/Calendar_event/2k25/imtex-forming-tooltech.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IMTEX FORMING 2026 / Tooltech 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "5ede15a2bf9d7d71",
+    "title": "India 2027",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "India 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "bc55de5f81b70b82",
+    "title": "India 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "India 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "0a5e0480c582164b",
+    "title": "India Med Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/india-med-expo-2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Med Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "cf3aef0d3a5b739d",
+    "title": "India Tea & Coffee, Dairy, Poultry & Food Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/india-tea-coffee-dairy-poultry-food-expo-2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "India Tea & Coffee, Dairy, Poultry & Food Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "1246942b23611d8d",
+    "title": "Indus Food Regional (South)",
+    "url": "https://www.biec.in/Calendar_event/2k26/indus-food-2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Indus Food Regional (South)",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f616d59a70919fdd",
+    "title": "khadi-fair-2026",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "khadi-fair-2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "72a114ee1477929a",
+    "title": "khadi-fair-2026",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "khadi-fair-2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "114c374433b0acb3",
+    "title": "March 2027",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "March 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "b5c1ba152055f30c",
+    "title": "Ministry of The AI Impact Summit in India 2026 Website:",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Ministry of The AI Impact Summit in India 2026 Website:",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "b767ddc3d9301db1",
+    "title": "Print & Pack Tech Expo 2026",
+    "url": "https://www.biec.in/Calendar_event/2k26/print-and-pack-tech-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Print & Pack Tech Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "3a474e5bf1ce5d82",
+    "title": "Renewable Asia 2026 / EV",
+    "url": "https://www.biec.in/Calendar_event/2k26/renewable-asia-2026-ev.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Renewable Asia 2026 / EV",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "41ed804ee057bc05",
+    "title": "s Show 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "s Show 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "ac256dcee27191e4",
+    "title": "s.in/2027/index.",
+    "url": "https://www.indembassybern.gov.in/content/Calendar-of-Trade-Fairs-for-2026-and-2027.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-bern"
+    ],
+    "observed_date_city_text": "s.in/2027/index.",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "2c72774bd96d82f0",
+    "title": "Show 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Show 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f7545e66c2e53532",
+    "title": "Show 2027",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "Show 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "868625572107cdbb",
+    "title": "Show 2027",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "Show 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "5c4b33cc0e5103f8",
+    "title": "Show 6,2026",
+    "url": "https://www.indembastana.gov.in/content/Calendar-of-Upcoming-Trade-Events_2026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-astana"
+    ],
+    "observed_date_city_text": "Show 6,2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "73feec3577675878",
+    "title": "Silver Show Of India",
+    "url": "https://www.biec.in/Calendar_event/2k26/silverjewel2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Silver Show Of India",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "5f420d53003f7b3f",
+    "title": "Smart Home & Office Expo, Interior and Décor Expo, Cable & Wire Expo",
+    "url": "https://www.biec.in/Calendar_event/2k26/smart-home-office-2026-expo.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Smart Home & Office Expo, Interior and Décor Expo, Cable & Wire Expo",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "4c424382892079da",
+    "title": "Smart Lift and Mobility World Expo 2026",
+    "url": "https://www.biec.in/Calendar_event/2k25/smart-lift-%20Mobility-world.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "Smart Lift and Mobility World Expo 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "1710be34b0ce51c5",
+    "title": "SYMPOSIUM ON AUTOMATION & ROBOTICS",
+    "url": "https://www.biec.in/Calendar_event/2k26/symposium2026.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "SYMPOSIUM ON AUTOMATION & ROBOTICS",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "3a5091416fba7b2b",
+    "title": "The Bharat Electricity Summit 2026",
+    "url": "https://www.eoisantodomingo.gov.in/pdf/ENGLISH%20-%20TRADE%20FAIRS%20IN%20INDIA%202026_2027%20update%2004022026.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-santo-domingo"
+    ],
+    "observed_date_city_text": "The Bharat Electricity Summit 2026",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "f43adb946c4bf767",
+    "title": "Why the Industry is Heading to MATECIA EXHIBITION 2026",
+    "url": "https://www.matecia.com/why-the-industry-is-heading-to-matecia-exhibition-2026",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "matecia"
+    ],
+    "observed_date_city_text": "Why the Industry is Heading to MATECIA EXHIBITION 2026 Read More",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2026"
+  },
+  {
+    "candidate_id": "50395b12115e40e1",
+    "title": "50. Plastivision India 2027 Jan 21– 25, 2027",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "50. Plastivision India 2027 Jan 21– 25, 2027",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "af54ef6c15470401",
+    "title": "A-2027 –",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "A-2027 –",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "15a2c1252aede5cc",
+    "title": "Floor Plan Delhi 2027",
+    "url": "https://www.gartexindia.com/floor-plan-delhi",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "efd6214e15b3925b",
+    "title": "IMTEX 2027/Tooltech 2027",
+    "url": "https://www.biec.in/Calendar_event/2k27/IMTEX-2027-Tooltech.php",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "biec"
+    ],
+    "observed_date_city_text": "IMTEX 2027/Tooltech 2027",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "8cef90591dbcb7a3",
+    "title": "n/2027/index.php",
+    "url": "https://www.indembsofia.gov.in/content/Calendar-of-Upcoming-Trade-Events_India_26.03.26.pdf",
+    "candidate_type": "government_calendar_pdf",
+    "discovery_source_ids": [
+      "trade-calendar-sofia"
+    ],
+    "observed_date_city_text": "n/2027/index.php",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "dfbebab13a9d8dc7",
+    "title": "New Delhi World Book Fair NDWBF 2027 · 54th Year",
+    "url": "https://www.nbtindia.gov.in/ndwbf2027/index.html",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "nbt-ndwbf"
+    ],
+    "observed_date_city_text": "New Delhi World Book Fair NDWBF 2027 · 54th Year About Schedule Themes Speakers Venues Exhibitors Contact Domestic Brochure International Brochure Register Exhibitor Book Your Space",
+    "retrieved_at": "2026-11-12T12:15:22.048316+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "04e94fbfa22ac95e",
+    "title": "Show Catalogue 2027",
+    "url": "https://cewexpo.com/show-catalogue",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "cew"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "3d545f47dfde19e0",
+    "title": "Show catalogue 2027",
+    "url": "https://www.gartexindia.com/show-catalogue",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "f86ef8008b603b29",
+    "title": "Show Preview 2027",
+    "url": "https://cewexpo.com/show-preview",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "cew"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "bb2cb539b62f0a9e",
+    "title": "Show Preview – Delhi 2027",
+    "url": "https://www.gartexindia.com/show-preview-delhi",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "2214ddfaa5d435ba",
+    "title": "Show Preview – Kolkata 2027",
+    "url": "https://www.gartexindia.com/show-preview-kolkata",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  },
+  {
+    "candidate_id": "dc49abd81eb7a189",
+    "title": "Show Preview – Mumbai 2027",
+    "url": "https://www.gartexindia.com/show-preview-mumbai",
+    "candidate_type": "event_page_link",
+    "discovery_source_ids": [
+      "gartex"
+    ],
+    "observed_date_city_text": "",
+    "retrieved_at": "2026-11-12T11:57:17.187014+00:00",
+    "verification_status": "UNVERIFIED",
+    "possible_year": "2027"
+  }
+]
