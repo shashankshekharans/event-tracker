@@ -108,7 +108,7 @@ def add_navigation(workbook, counts):
     sheet["B3"] = "November 2026 through December 2027"
     sheet["B3"].font = Font(name="Arial", size=10, color="51667C")
     sections = [
-        ("Events", "Filter the schedule by date, region, industry or shortlist. Check the evidence status before booking."),
+        ("Events", "Filter date-confirmed editions by date, region, industry or shortlist. Two completed 2026 editions remain for history and are flagged in their audit notes."),
         (PENDING_SHEET, "Use planning windows to decide when to check again. Prior editions and old supplied dates are shown separately."),
         ("Speaker Opportunities", "Filter by status. Check edition, deadline and eligibility before proposing a speaker."),
         (LEADERSHIP_SHEET, "Find awards, case competitions and CEO talks. Use Next action to follow up."),

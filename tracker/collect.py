@@ -22,6 +22,15 @@ EVENT_TERMS = re.compile(
     r"convention|show|event|book\s?fair)\b",
     re.I,
 )
+DATED_EVENT_CONTEXT = re.compile(
+    r"\b(?:(?:\d{1,2}\s*(?:-|–|to)\s*\d{1,2})\s+"
+    r"(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|"
+    r"jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)"
+    r"|(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|"
+    r"jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)"
+    r"\s+\d{1,2}\s*(?:-|–|to)\s*\d{1,2})[\s,–-]{0,30}20(?:26|27)\b",
+    re.I,
+)
 DETAIL_EVENT_PATH = re.compile(r"/calendar_event/|/(?:event|expo|exhibition|fair|show|summit|conference)[-_a-z0-9./]*20(?:26|27)[-_a-z0-9./]*$", re.I)
 REJECT_TERMS = re.compile(
     r"privacy|cookie|terms|contact|about|login|sign.?in|register|registration|"
@@ -100,7 +109,7 @@ def _host_allowed(candidate: str, base: str) -> bool:
     base_host = (urlsplit(base).hostname or "").lower()
     if host in BLOCKED_HOSTS or any(host.endswith("." + blocked) for blocked in BLOCKED_HOSTS):
         return False
-    return host == base_host
+    return host.removeprefix("www.") == base_host.removeprefix("www.")
 
 
 def _rejection_reason(url: str, label: str, base_url: str) -> str | None:
@@ -123,6 +132,56 @@ def discover_event_links(base_url: str, html: str) -> tuple[list[dict], list[dic
     soup = BeautifulSoup(html, "html.parser")
     candidates: dict[str, dict] = {}
     rejected: list[dict] = []
+
+    def structured_events(value):
+        if isinstance(value, list):
+            for child in value:
+                yield from structured_events(child)
+        elif isinstance(value, dict):
+            types = value.get("@type", [])
+            if isinstance(types, str):
+                types = [types]
+            if any(str(item).casefold().endswith("event") for item in types):
+                yield value
+            for key, child in value.items():
+                if key in ("@graph", "mainEntity", "itemListElement"):
+                    yield from structured_events(child)
+
+    for script in soup.select('script[type="application/ld+json"]'):
+        try:
+            payload = json.loads(script.string or script.get_text())
+        except (TypeError, json.JSONDecodeError):
+            continue
+        for event in structured_events(payload):
+            raw_url = event.get("url") or event.get("@id")
+            if isinstance(raw_url, dict):
+                raw_url = raw_url.get("@id")
+            if not isinstance(raw_url, str) or not raw_url.strip():
+                continue
+            url = canonicalize_url(urljoin(base_url, raw_url))
+            label = str(event.get("name") or "Structured event")
+            if not EVENT_TERMS.search(label):
+                label = f"{label} event"
+            if not _host_allowed(url, base_url):
+                rejected.append({"url": url, "label": label, "reason": "external_or_social_domain"})
+                continue
+            location = event.get("location") or {}
+            if isinstance(location, list):
+                location = location[0] if location else {}
+            address = location.get("address", {}) if isinstance(location, dict) else {}
+            if isinstance(address, dict):
+                city = address.get("addressLocality", "")
+            else:
+                city = str(address)
+            candidates.setdefault(url, {
+                "url": url, "label": label, "discovered_from": base_url,
+                "observed_date_city_text": " | ".join(filter(None, [
+                    str(event.get("startDate", "")), city,
+                    str(location.get("name", "")) if isinstance(location, dict) else "",
+                ])),
+                "structured_event": True,
+            })
+
     for anchor in soup.select("a[href]"):
         href = anchor.get("href", "").strip()
         if not href or href.startswith(("mailto:", "tel:", "javascript:")):
@@ -131,15 +190,22 @@ def discover_event_links(base_url: str, html: str) -> tuple[list[dict], list[dic
         label = anchor.get_text(" ", strip=True)
         context = anchor.parent.get_text(" ", strip=True) if anchor.parent else label
         context = re.sub(r"\s+", " ", context).strip()[:500]
+        dated_event_context = DATED_EVENT_CONTEXT.search(context)
         reason = _rejection_reason(url, label, base_url)
+        if reason == "no_event_signal" and dated_event_context:
+            reason = None
         if reason:
             if EVENT_TERMS.search(label + " " + url) or DETAIL_EVENT_PATH.search(urlsplit(url).path):
                 rejected.append({"url": url, "label": label, "reason": reason})
             continue
         if REJECT_TERMS.search(label + " " + url):
             continue
-        if not EVENT_TERMS.search(label + " " + url) and not DETAIL_EVENT_PATH.search(urlsplit(url).path):
+        if (not EVENT_TERMS.search(label + " " + url)
+                and not DETAIL_EVENT_PATH.search(urlsplit(url).path)
+                and not dated_event_context):
             continue
+        if dated_event_context and (not EVENT_TERMS.search(label) or label.casefold() in {"explore now", "read more"}):
+            label = f"Dated event listing — {context}"[:180]
         candidates.setdefault(url, {"url": url, "label": label, "discovered_from": base_url,
                                     "observed_date_city_text": context})
     return sorted(candidates.values(), key=lambda item: item["url"]), rejected

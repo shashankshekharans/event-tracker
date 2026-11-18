@@ -324,8 +324,12 @@
       "suitability": "AMBER",
       "suitability_reason": "Furniture and woodworking brands may be prospective customers; check product lines.",
       "participation": "Visit; consider stall",
-      "missing_information": "Named exhibitor companies; footfall; stall pricing",
-      "audit_status": "Previously recorded"
+      "missing_information": "Named exhibitor companies; confirm projected metrics against the final show report",
+      "audit_status": "Organizer date checked",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.indiawood.com/",
+      "audit_note": "Official organizer homepage states 3–6 March 2027 at India Expo Mart & Centre, Greater Noida, Delhi-NCR."
     }
   },
   {
@@ -1391,27 +1395,28 @@
       "industry": "Renewable energy, energy storage and e-mobility",
       "suitability": "GREEN",
       "suitability_reason": "Renewable energy manufacturers, installers, and equipment suppliers are relevant B2B prospects.",
-      "date_certainty": "Organizer page contains a conflicting stray October date; November dates repeated on homepage and FAQ",
+      "date_certainty": "Conflicting official dates",
       "source_crosscheck": "Official REI Expo organizer home and agenda pages",
-      "source_crosscheck_url": "https://www.renewableenergyindiaexpo.com/agenda",
+      "source_crosscheck_url": "https://www.renewableenergyindiaexpo.com/home",
       "missing_information": "Resolve conflicting date text with organizer; named exhibitors; footfall; stall pricing",
       "audit_status": "Date pending",
-      "audit_note": "Check the organizer for edition dates and venue.",
+      "audit_note": "Official REI pages conflict: the home page, contact page and opening-time blocks announce 4–6 November 2027, while an FAQ on the conference page says 4–6 October 2027. Keep date pending until the organizer resolves this inconsistency.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "last_checked": "2026-11-18"
     }
   },
   {
     "key": "cphi-india-pmec-2026",
     "name": "CPhI & P-MEC India 2026",
-    "city": "Greater Noida",
-    "start": "2026-11-24",
+    "city": "New Delhi / Greater Noida",
+    "start": "2026-11-23",
     "end": "2026-11-26",
     "url": "https://www.cphi.com/india/en/home.html",
     "details": {
       "region": "Delhi NCR",
-      "venue": "India Expo Centre & Mart",
+      "venue": "CPHI India: IICC, Yashobhoomi, Dwarka (23–25 Nov); PMEC India: IEML, Greater Noida (24–26 Nov)",
       "organizer": "Informa Markets India",
       "edition": "17th",
       "event_type": "EXHIBITION_AND_CONFERENCE",
@@ -1420,12 +1425,15 @@
       "suitability": "AMBER",
       "suitability_reason": "Check for ambient, non-perishable products and standard warehousing needs. Temperature-controlled and perishable storage are outside scope.",
       "participation": "Visit; exhibit; speak",
-      "missing_information": "Final speaker call schedule; 2026 session themes",
-      "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "missing_information": "Confirm whether to split the CPHI and PMEC venues into separate event records; confirm exhibitor and visitor metrics.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Organizer confirms two simultaneous venues and distinct dates: CPHI India 23–25 Nov at IICC, Dwarka; PMEC India 24–26 Nov at IEML, Greater Noida. Combined tracker entry spans 23–26 Nov.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed; two venue format",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.cphi.com/india/resources/faqs/"
     }
   },
   {
@@ -1448,18 +1456,19 @@
       "participation": "Visit; exhibit; speak",
       "missing_information": "Exhibitor floor plan; sponsorship tiers",
       "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "audit_note": "Official CPHI source checked on 18 Nov 2026 confirms 2026 dates, but no India 2027 edition dates were found. Existing date is an unverified planning estimate.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Planning estimate; 2027 date not announced in checked source"
     }
   },
   {
     "key": "india-warehousing-show-2026",
     "name": "India Warehousing Show 2026",
     "city": "New Delhi",
-    "start": "2026-12-10",
-    "end": "2026-12-12",
+    "start": "2026-06-25",
+    "end": "2026-06-27",
     "url": "https://www.indiawarehousingshow.com/",
     "details": {
       "region": "Delhi NCR",
@@ -1472,12 +1481,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Core industry event for 3PL providers, warehouse automation, robotics, and client brand prospecting.",
       "participation": "Visit; exhibit; speak",
-      "missing_information": "Conference agenda; speaker nominations",
-      "audit_status": "Evidence pending",
-      "audit_note": "The current organizer page gives the June 2027 New Delhi edition. The supplied December 2026 listing needs a separate edition record.",
+      "missing_information": "None for dates; the linked post-show report contains performance metrics.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Historical edition; official post-show report confirms 25–27 June 2026 at YashoBhoomi. Retained for edition history; do not treat as a future opportunity.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER POST-SHOW REPORT",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.indiawarehousingshow.com/content/dam/sitebuilder/rxin/india-warehousing-show-/IWS_PSR_2026.pdf"
     }
   },
   {
@@ -1640,36 +1652,39 @@
   },
   {
     "key": "indusfood-tech-packaging-2027",
-    "name": "Indusfood Tech & Packaging 2027",
+    "name": "Indusfood Manufacturing 2027",
     "city": "Greater Noida",
-    "start": "2027-01-08",
-    "end": "2027-01-10",
-    "url": "https://indusfoodtech.co.in/",
+    "start": null,
+    "end": null,
+    "url": "https://indusfood.co.in/",
     "details": {
       "region": "Delhi NCR",
       "venue": "India Expo Centre & Mart",
       "organizer": "Trade Promotion Council of India (TPCI)",
       "edition": "7th",
       "event_type": "EXHIBITION",
-      "industry": "Food processing, packaging technology, cold chain and logistics automation",
+      "industry": "Food manufacturing, processing and packaging technology",
       "exhibitors": "350+ packaging and technology exhibitors",
       "suitability": "GREEN",
       "suitability_reason": "Food & beverage processing, FMCG contract packaging and cold storage logistics.",
       "participation": "Visit; exhibit",
-      "missing_information": "Exhibitor company list; buyer delegation list",
+      "missing_information": "Confirm 2027 dates, venue, official event scope and whether this concurrent show is separately open to visitors/exhibitors.",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "audit_note": "The main Indusfood organizer identifies Indusfood Manufacturing as a concurrent show, but its direct event page did not return reliable evidence during this check. The 8–10 January dates belong to the main Indusfood 2027 record; they are not copied here without edition-specific confirmation.",
       "planning_window": "",
-      "prior_dates": "",
-      "prior_url": ""
+      "prior_dates": "Previously supplied 8–10 January 2027; this is the main Indusfood edition, not confirmed dates for Indusfood Manufacturing.",
+      "prior_url": "https://indusfood.co.in/",
+      "date_certainty": "CONCURRENT SHOW; EDITION DATES UNCONFIRMED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://indusfood.co.in/"
     }
   },
   {
     "key": "corrupack-print-india-2027",
     "name": "Corrupack Print India 2027",
     "city": "Greater Noida",
-    "start": "2027-03-18",
-    "end": "2027-03-21",
+    "start": null,
+    "end": null,
     "url": "https://corrupackprintindia.org/",
     "details": {
       "region": "Delhi NCR",
@@ -1682,12 +1697,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Corrugated carton suppliers and heavy packaging manufacturers critical for warehouse shipping operations.",
       "participation": "Visit; exhibit",
-      "missing_information": "Floor layout; conference sessions",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Revisit for the 2028 calendar.",
+      "audit_status": "Out of scope — next edition 2028",
+      "audit_note": "The organizer announces the 3rd edition for 9–12 February 2028 at Yashobhoomi. No 2027 NCR edition is listed; the supplied March 2027 date is unsupported. Revisit when the tracker extends to 2028.",
       "planning_window": "",
-      "prior_dates": "",
-      "prior_url": ""
+      "prior_dates": "Previously supplied 18–21 March 2027 (unsupported). Next confirmed edition: 9–12 February 2028.",
+      "prior_url": "https://www.corrupackprintindia.org/",
+      "date_certainty": "NEXT EDITION OUTSIDE TRACKING WINDOW",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.corrupackprintindia.org/"
     }
   },
   {
@@ -1771,13 +1789,13 @@
   {
     "key": "auto-expo-the-motor-show-2027",
     "name": "Auto Expo - The Motor Show 2027",
-    "city": "Greater Noida",
-    "start": "2027-01-15",
-    "end": "2027-01-20",
+    "city": "New Delhi",
+    "start": "2027-02-06",
+    "end": "2027-02-09",
     "url": "https://www.autoexpo-themotorshow.in/",
     "details": {
       "region": "Delhi NCR",
-      "venue": "India Expo Centre & Mart",
+      "venue": "Bharat Mandapam, New Delhi",
       "organizer": "Society of Indian Automobile Manufacturers (SIAM)",
       "edition": "17th",
       "event_type": "EXHIBITION",
@@ -1786,12 +1804,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Automotive brands needing spare parts warehousing, finished vehicle logistics, and EV battery storage.",
       "participation": "Visit; exhibit",
-      "missing_information": "Visitor ticket sales dates; security protocol",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm trade days and exhibitor participation dates separately from public dates.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official FAQ confirms 6–9 February 2027 for general public at Bharat Mandapam, New Delhi.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.autoexpo-themotorshow.in/faqs/"
     }
   },
   {
@@ -1814,22 +1835,23 @@
       "participation": "Visit; exhibit",
       "missing_information": "Floor layout; buyer-seller appointment system",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "audit_note": "Official Auto Expo FAQ describes the 2027 component show at Yashobhoomi but no dates were found in the reviewed page. Existing dates remain unverified.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Planning estimate; organizer dates not found"
     }
   },
   {
     "key": "acma-automechanika-new-delhi-2026",
     "name": "ACMA Automechanika New Delhi 2026",
     "city": "New Delhi",
-    "start": "2026-11-26",
-    "end": "2026-11-28",
+    "start": "2026-02-05",
+    "end": "2026-02-07",
     "url": "https://acma-automechanika-newdelhi.in.messefrankfurt.com/newdelhi/en.html",
     "details": {
       "region": "Delhi NCR",
-      "venue": "Bharat Mandapam",
+      "venue": "Yashobhoomi (IICC), Dwarka",
       "organizer": "Messe Frankfurt India & ACMA",
       "edition": "6th",
       "event_type": "EXHIBITION",
@@ -1838,12 +1860,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Aftermarket spare parts distributors represent recurring B2B warehousing and distribution accounts.",
       "participation": "Visit; exhibit",
-      "missing_information": "Visitor pre-registration link confirmation",
-      "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "missing_information": "None for dates; see organizer post-show coverage for event scale.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Historical edition; organizer pages confirm 5–7 February 2026 at Yashobhoomi, Dwarka, New Delhi. Retained for edition history; do not treat as a future opportunity.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://acma-automechanika-newdelhi.in.messefrankfurt.com/newdelhi/en/press/press-releases/2026/ACMA_Automechanika_New_Delhi_2026_opens_spotlighting_Indias_global_aftermarket_ambitions.html"
     }
   },
   {
@@ -1876,8 +1901,8 @@
     "key": "ev-india-expo-2027",
     "name": "EV India Expo 2027",
     "city": "Greater Noida",
-    "start": "2027-06-17",
-    "end": "2027-06-19",
+    "start": null,
+    "end": null,
     "url": "https://evindiaexpo.in/",
     "details": {
       "region": "Delhi NCR",
@@ -1890,12 +1915,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Growing green logistics fleet ecosystem and OEM components warehousing.",
       "participation": "Visit; exhibit",
-      "missing_information": "Exhibitor list; sponsorship packages",
+      "missing_information": "Confirm event dates and venue with organizer.",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
-      "planning_window": "",
-      "prior_dates": "",
-      "prior_url": ""
+      "audit_note": "The official site landing page states 16–18 September 2027, while the FAQ states 16–17 September 2027. Dates and venue need organizer confirmation; clear the previously supplied June dates.",
+      "planning_window": "September 2027; organizer dates conflict between 16–18 and 16–17 September.",
+      "prior_dates": "Previously supplied 17–19 June 2027 (unsupported); official home page says 16–18 September while FAQ says 16–17 September.",
+      "prior_url": "https://www.evindiaexpo.in/",
+      "date_certainty": "CONFLICTING ORGANIZER DATES",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.evindiaexpo.in/"
     }
   },
   {
@@ -2915,8 +2943,8 @@
     "key": "iphex-delhi-2027",
     "name": "IPHEX - International Exhibition for Pharma & Healthcare 2027",
     "city": "New Delhi",
-    "start": "2027-08-25",
-    "end": "2027-08-27",
+    "start": "2027-08-19",
+    "end": "2027-08-21",
     "url": "https://www.iphex-india.com/",
     "details": {
       "region": "Delhi NCR",
@@ -2929,12 +2957,15 @@
       "suitability": "GREEN",
       "suitability_reason": "High-margin pharmaceutical export accounts; strong fit for AAJ compliant cold chain storage.",
       "participation": "Visit; exhibit; speak",
-      "missing_information": "Foreign regulatory delegation list",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm venue and foreign regulatory delegation list against final visitor information.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "The official visitor registration confirmation page states 19–21 August 2027.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://iphex-india.com/visitor/thankyou"
     }
   },
   {
@@ -3059,12 +3090,15 @@
       "suitability": "GREEN",
       "suitability_reason": "North India hospital supply chains and medical device importers near IGI Airport.",
       "participation": "Visit; exhibit",
-      "missing_information": "Stall booking floor plan",
-      "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "missing_information": "Confirm venue, exhibitor prospectus and participation options for the New Delhi edition.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official Medicall edition schedule lists the 53rd New Delhi edition on 17–19 September 2027.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.medicall.in/interoperability_registration.php?type=attend"
     }
   },
   {
@@ -3615,8 +3649,8 @@
     "key": "acetech-mumbai-2026",
     "name": "ACETECH Mumbai 2026",
     "city": "Mumbai",
-    "start": "2026-11-12",
-    "end": "2026-11-15",
+    "start": "2026-11-19",
+    "end": "2026-11-22",
     "url": "https://acetechexpo.com/",
     "details": {
       "region": "Mumbai",
@@ -3629,12 +3663,15 @@
       "suitability": "GREEN",
       "suitability_reason": "High-value building materials, sanitaryware, and hardware brands requiring regional warehouse distribution.",
       "participation": "Visit; exhibit",
-      "missing_information": "Conference schedule",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm current exhibitor prospectus, exhibitor count, footfall and participation options.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official organizer site and 2026 brochure agree on 19–22 November 2026; venue Bombay Exhibition Centre.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://mumbaitickets.acetechexpo.com/"
     }
   },
   {
@@ -3655,20 +3692,23 @@
       "suitability": "GREEN",
       "suitability_reason": "North India building product distributors and project supply chain leaders.",
       "participation": "Visit; exhibit",
-      "missing_information": "Speaker agenda confirmation",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm current exhibitor prospectus, exhibitor count, footfall and participation options.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official 2026 organizer brochure lists 17–20 December 2026 at Bharat Mandapam.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://acetechexpo.com/wp-content/uploads/2026/07/ACETECH-Pro-2026-1.pdf"
     }
   },
   {
     "key": "acetech-bengaluru-2027",
     "name": "ACETECH Bengaluru 2027",
     "city": "Bengaluru",
-    "start": "2027-10-08",
-    "end": "2027-10-10",
+    "start": "2027-10-15",
+    "end": "2027-10-17",
     "url": "https://acetechexpo.com/bengaluru/",
     "details": {
       "region": "Bengaluru",
@@ -3681,12 +3721,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Southern India construction supplies distribution; strong candidate for regional hub storage.",
       "participation": "Visit; exhibit",
-      "missing_information": "Floor layout",
-      "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "missing_information": "Confirm current exhibitor prospectus, exhibitor count, footfall and participation options.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official organizer homepage lists Bengaluru 15–17 October 2027 at BIEC.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Organizer confirmed",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://acetechexpo.com/"
     }
   },
   {
@@ -3707,12 +3750,13 @@
       "suitability": "GREEN",
       "suitability_reason": "Flagship building materials platform in Western India.",
       "participation": "Visit; exhibit",
-      "missing_information": "Visitor ticket registration link",
+      "missing_information": "Confirm 2027 dates, venue and exhibitor / visitor metrics with organizer.",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "audit_note": "2027 date not confirmed by the official sources checked on 18 Nov 2026; existing dates are planning estimates based on the 2026 cycle.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Planning estimate; 2027 organizer dates not found"
     }
   },
   {
@@ -3733,24 +3777,25 @@
       "suitability": "GREEN",
       "suitability_reason": "NCR construction and architectural products supply chain.",
       "participation": "Visit; exhibit",
-      "missing_information": "Floor plan",
+      "missing_information": "Confirm 2027 dates, venue and exhibitor / visitor metrics with organizer.",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "audit_note": "2027 date not confirmed by the official sources checked on 18 Nov 2026; existing dates are planning estimates based on the 2026 cycle.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "Planning estimate; 2027 organizer dates not found"
     }
   },
   {
     "key": "d-arc-build-new-delhi-2027",
     "name": "D-arc BUILD New Delhi 2027",
     "city": "New Delhi",
-    "start": "2027-06-11",
-    "end": "2027-06-14",
+    "start": "2027-09-23",
+    "end": "2027-09-26",
     "url": "https://darcbuild.com/",
     "details": {
       "region": "Delhi NCR",
-      "venue": "Pragati Maidan / Bharat Mandapam",
+      "venue": "NSIC Exhibition Complex, Okhla",
       "organizer": "Zak Trade Fairs & Exhibitions Pvt Ltd",
       "edition": "4th",
       "event_type": "EXHIBITION",
@@ -3759,12 +3804,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Architectural finishes and luxury interior decor brands.",
       "participation": "Visit; exhibit",
-      "missing_information": "Exhibitor directory",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm final venue hall and event scale.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official organizer site lists New Delhi for 23–26 September 2027.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://darcbuild.com/"
     }
   },
   {
@@ -4005,8 +4053,8 @@
     "key": "smart-home-expo-new-delhi-2027",
     "name": "Smart Home Expo New Delhi 2027",
     "city": "New Delhi",
-    "start": "2027-11-18",
-    "end": "2027-11-20",
+    "start": null,
+    "end": null,
     "url": "https://www.smarthomeexpo.in/delhi/",
     "details": {
       "region": "Delhi NCR",
@@ -4019,12 +4067,15 @@
       "suitability": "GREEN",
       "suitability_reason": "High-tech building sensors and automated warehouse BMS equipment suppliers.",
       "participation": "Visit; exhibit",
-      "missing_information": "Exhibitor directory",
+      "missing_information": "Confirm whether a Delhi NCR 2027 edition will take place; do not plan against the supplied November dates without organizer evidence.",
       "audit_status": "Evidence pending",
-      "audit_note": "Source URL is present. The supplied date and venue have not been independently corroborated for this edition.",
+      "audit_note": "The official 2027 announcement located is for Mumbai, 13–15 May. No Delhi NCR edition or November dates were found on the current official site; retain this as an unconfirmed NCR lead without dates.",
       "planning_window": "",
-      "prior_dates": "",
-      "prior_url": ""
+      "prior_dates": "Previously supplied 18–20 November 2027 (no NCR source found).",
+      "prior_url": "https://www.smarthomeexpo.in/delhi/",
+      "date_certainty": "NCR EDITION NOT FOUND",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://www.smarthomeexpo.in/"
     }
   },
   {
@@ -4108,13 +4159,13 @@
   {
     "key": "ifat-delhi-2027",
     "name": "IFAT Delhi 2027",
-    "city": "Greater Noida",
-    "start": "2027-04-14",
-    "end": "2027-04-16",
+    "city": "New Delhi",
+    "start": "2027-04-21",
+    "end": "2027-04-23",
     "url": "https://www.ifat-delhi.com/",
     "details": {
       "region": "Delhi NCR",
-      "venue": "India Expo Centre & Mart",
+      "venue": "Bharat Mandapam",
       "organizer": "Messe München India",
       "edition": "3rd",
       "event_type": "EXHIBITION",
@@ -4123,12 +4174,15 @@
       "suitability": "GREEN",
       "suitability_reason": "North India municipal and industrial environmental management technology.",
       "participation": "Visit",
-      "missing_information": "Floor layout plan",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm exhibitor names, expected visitors and conference/speaking routes.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official IFAT Delhi 2027 visitor-registration page lists 21–23 April at Bharat Mandapam, New Delhi.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://ifat-delhi.com/get-your-ticket/"
     }
   },
   {
@@ -4383,12 +4437,15 @@
       "suitability": "GREEN",
       "suitability_reason": "North India jewellery manufacturers and retail chains requiring secure supply chain.",
       "participation": "Visit",
-      "missing_information": "Buyer registration link",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm 2027 venue and validate exhibitor/visitor metrics; homepage metrics appear inconsistent with expected show scale.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official DJGF site lists 18–20 September 2027.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://delhi.jewelleryfair.in/"
     }
   },
   {
@@ -4513,12 +4570,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Toy brands have massive holiday e-commerce surges requiring flexible pallet storage and pick-pack services.",
       "participation": "Visit; exhibit",
-      "missing_information": "Visitor directory",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm venue, exhibitor list and footfall for the 2027 edition.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Toy Association of India official site lists the 2027 Toy Biz International B2B Expo for 3–6 July.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://tai-india.org/"
     }
   },
   {
@@ -5019,8 +5079,8 @@
     "key": "bharat-international-rice-conference-delhi-2027",
     "name": "Bharat International Rice Conference (BIRC) 2027",
     "city": "New Delhi",
-    "start": "2027-09-10",
-    "end": "2027-09-12",
+    "start": null,
+    "end": null,
     "url": "https://birc.in/",
     "details": {
       "region": "Delhi NCR",
@@ -5033,12 +5093,15 @@
       "suitability": "GREEN",
       "suitability_reason": "North India (Haryana/Punjab) basmati rice exporters require extensive buffer warehouse storage.",
       "participation": "Visit; speak",
-      "missing_information": "Conference registration fees",
+      "missing_information": "2027 date, venue and registration announcement.",
       "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
-      "planning_window": "",
-      "prior_dates": "",
-      "prior_url": ""
+      "audit_note": "Official BIRC site says 2027 dates are to be announced. Removed the unsupported supplied September 2027 dates; use the 2026 edition timing only as a planning reference.",
+      "planning_window": "Prior edition was 23–25 October 2026; no 2027 dates announced",
+      "prior_dates": "Previously supplied 10–12 September 2027 (unsupported); prior edition held 23–25 October 2026.",
+      "prior_url": "https://birc.in/",
+      "date_certainty": "DATES TO BE ANNOUNCED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://birc.in/"
     }
   },
   {
@@ -5099,12 +5162,12 @@
     "key": "international-hardware-fair-india-new-delhi-2027",
     "name": "International Hardware Fair India (IHF) 2027",
     "city": "New Delhi",
-    "start": "2027-12-02",
-    "end": "2027-12-04",
+    "start": "2027-10-23",
+    "end": "2027-10-25",
     "url": "https://www.hardwarefair-india.com/",
     "details": {
       "region": "Delhi NCR",
-      "venue": "Bharat Mandapam",
+      "venue": "Bharat Mandapam (Pragati Maidan)",
       "organizer": "Koelnmesse India",
       "edition": "4th",
       "event_type": "EXHIBITION",
@@ -5113,12 +5176,15 @@
       "suitability": "GREEN",
       "suitability_reason": "Hardware and tool distributors requiring heavy-duty shelving and parcel distribution.",
       "participation": "Visit; exhibit",
-      "missing_information": "Floor layout plan",
-      "audit_status": "Evidence pending",
-      "audit_note": "Linked page is a homepage or general calendar. The supplied edition date needs direct evidence.",
+      "missing_information": "Confirm current scale and exhibitor directory nearer the show.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Official organizer facts-and-figures page lists 23–25 October 2027 at Bharat Mandapam, New Delhi.",
       "planning_window": "",
       "prior_dates": "",
-      "prior_url": ""
+      "prior_url": "",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-18",
+      "source_crosscheck_url": "https://hardwarefair-india.com/facts-and-figures.html"
     }
   },
   {

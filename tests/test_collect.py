@@ -26,6 +26,17 @@ class CollectionTests(unittest.TestCase):
         self.assertEqual(result["sources"][0]["outcome"], "SUCCESS_WITH_EVENTS")
         self.assertEqual(result["candidate_links"], ["https://organizer.example/events/home-expo-2027"])
 
+    def test_discovers_generic_link_from_dated_event_card(self):
+        html = '''<ul class="slider"><li class="item"><div class="content">
+        Delhi 29 - 31 July, 2027 <a href="/del/">Explore Now</a>
+        </div></li></ul>'''
+        included, _ = discover_event_links("https://giftsworldexpo.com/", html)
+        self.assertEqual(len(included), 1)
+        self.assertEqual(included[0]["url"], "https://giftsworldexpo.com/del")
+        self.assertIn("Delhi", included[0]["observed_date_city_text"])
+        self.assertIn("2027", included[0]["observed_date_city_text"])
+        self.assertIn("2027", included[0]["label"])
+
     def test_scan_sources_deduplicates_links_across_pages(self):
         html = '<a href="https://event.example/home-expo-2027">Home Expo 2027</a>'
         result = scan_sources(

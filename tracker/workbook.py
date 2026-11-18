@@ -3,6 +3,7 @@
 import json
 import os
 from pathlib import Path
+from urllib.parse import urlsplit
 
 from openpyxl import Workbook, load_workbook
 
@@ -76,8 +77,8 @@ def _add_speakers(workbook, opportunities, events_by_id):
 
 def _add_source_health(workbook, events):
     sheet = workbook.create_sheet("Source Health")
-    sheet.append(["Source ID", "Publisher", "Source URL", "Outcome", "Pages fetched", "Permission",
-                  "Last checked", "Notes"])
+    sheet.append(["Source ID", "Publisher", "Source URL", "Domain", "Outcome", "Pages fetched",
+                  "Registry state", "Last checked", "Notes"])
     report = _load_json(Path("data/discovered_links.json"), {})
     registry = {item["id"]: item for item in _load_json(Path("config/source_pages.json"), [])
                 if isinstance(item, dict) and item.get("id")}
@@ -86,17 +87,25 @@ def _add_source_health(workbook, events):
         source = registry.get(key, {})
         reason = result.get("permission_reason") or source.get("permission_reason")
         notes = " | ".join(dict.fromkeys(filter(None, [result.get("error"), reason])))
-        sheet.append([key, result.get("publisher") or source.get("publisher"), result.get("url"),
+        url = result.get("url") or source.get("url")
+        sheet.append([key, result.get("publisher") or source.get("publisher"), url,
+                      (urlsplit(url).hostname or "").removeprefix("www.") if url else "",
                       result.get("outcome", "UNKNOWN"), result.get("pages_fetched", 0),
-                      source.get("permitted_use") or result.get("permitted_use"),
+                      ("ENABLED" if source.get("enabled") else source.get("permitted_use")) or "UNREGISTERED",
                       result.get("checked_at"), notes])
     evidence_urls = {url for event in events for url in (
         event["source_url"], event["details"].get("source_crosscheck_url"), event["details"].get("prior_url")
     ) if url}
-    for url in sorted(evidence_urls - {item.get("url") for item in scanned.values()}):
-        sheet.append(["event-evidence", "Event evidence", url, "NO CRAWL LOG", 0, None, None,
-                      "See the event's evidence status to determine whether its date has been checked."])
-    format_table(sheet, "SourceChecks", [25, 34, 42, 25, 15, 18, 33, 59], links=(3,), color="597183")
+    scanned_urls = {item.get("url") for item in scanned.values()}
+    for url in sorted(evidence_urls - scanned_urls):
+        domain = (urlsplit(url).hostname or "").removeprefix("www.")
+        domain_sources = [item for item in registry.values()
+                          if (urlsplit(item.get("url", "")).hostname or "").removeprefix("www.") == domain]
+        state = ("ENABLED" if domain_sources[0].get("enabled") else domain_sources[0].get("permitted_use")) if domain_sources else "UNREGISTERED"
+        sheet.append(["event-evidence", "Event evidence", url, domain,
+                      "EVIDENCE LINK (NOT SCANNED)", 0, state, None,
+                      "Evidence reference only; check the event record for its evidence status."])
+    format_table(sheet, "SourceChecks", [25, 34, 42, 28, 31, 15, 20, 33, 59], links=(3,), color="597183")
 
 
 def _add_dictionary(workbook):
@@ -113,7 +122,7 @@ def _add_dictionary(workbook):
         ("Previously supplied date", "The original date retained for audit reference. Use the review note and evidence status when deciding what to do."),
         ("Possible duplicate key", "A same-city, same-year name match flagged for manual review. Co-located shows may be distinct."),
         ("UNKNOWN speaker status", "Confirm the edition, submission window, selection process or sponsorship terms with the organizer."),
-        ("Source Health", "Crawler request history. Consult the event record for evidence on the specific date."),
+        ("Source Health", "Crawler attempts and event evidence links are labelled separately. Use Domain and Registry state to find sources that need review."),
     ]:
         sheet.append([name, meaning])
     format_table(sheet, "TrackerDefinitions", [29, 90], color="597183")
