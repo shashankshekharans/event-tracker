@@ -1,8 +1,8 @@
 # Event Tracker
 
-A trade show lands in the marketing inbox. The audience looks right, the CEO could speak on fulfilment, and the venue is an hour from the office. Then someone notices the dates on the brochure are from last year.
+A promising event lands in your inbox. The audience looks right. The venue is within reach. There might even be a stage for your next big idea. You are ready to put it on the calendar—until someone notices the brochure is from last year.
 
-**Event Tracker gives AAJ Supply Chain Management a calendar the team can question.** Open an event, see where its dates came from, and decide whether it deserves a visit, a stall, a speaker pitch or a case competition entry. Marketing and Business Development mark their picks in Excel. Management can filter the shortlist in the same file.
+**Event Tracker turns that moment of doubt into a better decision.** It gives anyone researching events a calendar they can question: open a listing, follow its dates to the source, and decide whether it deserves a visit, a stall, a speaker pitch or a case competition entry. Mark the promising ones in Excel and share a shortlist others can inspect for themselves.
 
 **[Download the populated workbook](docs/Event_Tracker.xlsx?raw=true)** · [Project plan](aaj_events.md) · [Developer handoff](AGENTS.md)
 
@@ -50,6 +50,6 @@ The [event records](data/verified_events.json), [speaker calls](data/speaker_opp
 <a href="https://www.instagram.com/shashankshekharans/"><img alt="Instagram: shashankshekharans" src="https://img.shields.io/badge/Instagram-shashankshekharans-c13584?logo=instagram&logoColor=white"></a>
 <a href="https://x.com/SHASHANK_ANS"><img alt="X: SHASHANK_ANS" src="https://img.shields.io/badge/X-SHASHANK__ANS-000000?logo=x&logoColor=white"></a>
 
-<sub>Built for AAJ Supply Chain Management with free tools. Python, SQLite, openpyxl and GitHub.</sub>
+<sub>Built for curious teams and independent researchers with free tools: Python, SQLite, openpyxl and GitHub.</sub>
 
 </div>
