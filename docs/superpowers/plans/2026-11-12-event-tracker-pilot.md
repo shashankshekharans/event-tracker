@@ -8,7 +8,7 @@
 
 **Tech Stack:** Python 3.11+, Scrapy, Playwright for sources that need a browser, pdfplumber, Pydantic, SQLite standard library, openpyxl, pytest. Use free local tools and installed Claude/ChatGPT subscriptions through manual batch exchange.
 
-**Spec:** [aaj_events.md](../../../aaj_events.md)
+**Spec:** [PRODUCT_PLAN.md](../../../PRODUCT_PLAN.md)
 
 ## Global Constraints
 

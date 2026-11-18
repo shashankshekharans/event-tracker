@@ -60,4 +60,4 @@ Keep the existing Events sheet and shortlist mark. Add a speaker-opportunity sta
 
 - 10times Terms of Service, sections VII and VIII: https://10times.com/terms-of-service
 - WHR.ai product and pricing information: https://whr.ai/
-- Existing event scope and source strategy: `aaj_events.md`
+- Existing event scope and source strategy: `PRODUCT_PLAN.md`

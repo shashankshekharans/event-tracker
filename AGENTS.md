@@ -1,6 +1,6 @@
 # Event Tracker agent handoff
 
-Start with [the product plan](aaj_events.md) for business rules and [the README](README.md) for the operating workflow. The dated plans in docs/superpowers describe earlier implementation stages. Use the 18 November 2026 audit as the current baseline.
+Start with [the product plan](PRODUCT_PLAN.md) for business rules and [the README](README.md) for the operating workflow. The dated plans in docs/superpowers describe earlier implementation stages. Use the 18 November 2026 audit as the current baseline.
 
 ## Where development stopped
 

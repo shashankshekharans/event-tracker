@@ -55,7 +55,7 @@
 
 ### Task 3 — Workbook view and local operating instructions
 
-**Files:** Modify `tracker/workbook.py`, `README.md`, `aaj_events.md`.
+**Files:** Modify `tracker/workbook.py`, `README.md`, `PRODUCT_PLAN.md`.
 
 - [ ] Add a `Speaker Opportunities` sheet with one row per call, its own Yes/No shortlist mark, event ID/name/date/city, status, session, topic, eligibility, deadline, application link, evidence link, checked date, and missing information.
 - [ ] Add an event-level speaker status column to Events while preserving the independent event and speaker shortlist marks.

@@ -4,7 +4,7 @@ A promising event lands in your inbox. The audience looks right. The venue is wi
 
 **Event Tracker turns that moment of doubt into a better decision.** It gives anyone researching events a calendar they can question: open a listing, follow its dates to the source and decide whether it deserves a visit, a stall, a speaker pitch or a case competition entry. Mark the promising ones in Excel and share a shortlist others can inspect for themselves.
 
-**[Download the populated workbook](docs/Event_Tracker.xlsx?raw=true)** · [Project plan](aaj_events.md) · [Developer handoff](AGENTS.md)
+**[Download the populated workbook](docs/Event_Tracker.xlsx?raw=true)** · [Project plan](PRODUCT_PLAN.md) · [Developer handoff](AGENTS.md)
 
 ## Inside the workbook
 

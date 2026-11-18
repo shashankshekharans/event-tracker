@@ -92,4 +92,4 @@ Speaker-opportunity persistence and workbook presentation are independent of sou
 
 Use the existing Python CLI and local workbook. Do not implement the separate speaker sheet as part of this plan; preserve event conference/programme URLs so the speaker plan can use them.
 
-**Audit update, 18 November 2026.** The later evidence audit revised the schedule. See the [current plan](../../../aaj_events.md) and [agent handoff](../../../AGENTS.md).
+**Audit update, 18 November 2026.** The later evidence audit revised the schedule. See the [current plan](../../../PRODUCT_PLAN.md) and [agent handoff](../../../AGENTS.md).
