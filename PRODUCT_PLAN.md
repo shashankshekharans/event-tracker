@@ -1,12 +1,12 @@
 # Event Tracker development plan
 
-Prepared for AAJ Supply Chain Management. Revised 18 November 2026.
+Prepared for an India-focused warehousing and transportation business. Revised 18 November 2026.
 
 Status — Business requirements consolidated from the discussion. Technical proposals below are ready for confirmation and implementation planning.
 
 ## 1. Purpose and agreed requirements
 
-Help Marketing and Business Development discover events early, shortlist useful opportunities, and assess whether AAJ should visit, exhibit, speak, or sponsor. Management will discuss the shortlist after the internal teams have assessed it.
+Help Marketing and Business Development discover events early, shortlist useful opportunities, and assess whether the business should visit, exhibit, speak, or sponsor. Management will discuss the shortlist after the internal teams have assessed it.
 
 | Area | Confirmed direction |
 | --- | --- |
@@ -93,7 +93,7 @@ Preserve records discovered outside the current rollout area and label their cov
 - Book publishing, stationery, printing, and relevant education businesses.
 - Consumer electronics, accessories, and appliances.
 - Automotive, EV, engineering components, and aftermarket businesses.
-- Pharmaceuticals, nutraceuticals, healthcare devices, wellness, and Ayurveda products within AAJ's storage restrictions.
+- Pharmaceuticals, nutraceuticals, healthcare devices, wellness, and Ayurveda products within the warehouse storage restrictions.
 - Sports, fitness, and health goods.
 - Home, kitchen, furniture, decor, lifestyle, and gifting.
 - Industrial and general manufacturing, packaging, polymers, chemicals, hardware, and tools, subject to product suitability.
@@ -111,7 +111,7 @@ Support EXHIBITION, CONFERENCE_SUMMIT, ROUNDTABLE, AWARDS_NETWORKING, MIXED, OTH
 
 Confirmed warehouse exclusions are leather, perishable food, products requiring temperature-controlled storage, alcohol, and meat-based products, including meat-based pet food.
 
-AAJ can pursue the eligible product lines of a business that also sells restricted products. An expo with separate synthetic-footwear and leather sections can be useful for the synthetic-footwear opportunity.
+The team can pursue the eligible product lines of a business that also sells restricted products. An expo with separate synthetic-footwear and leather sections can be useful for the synthetic-footwear opportunity.
 
 Proposed event indicators are as follows.
 
@@ -140,11 +140,11 @@ Each event profile should expose the following fields when published.
 | --- | --- |
 | Identity | Event name, edition, organizer, official website, source links, description, and event format. |
 | Schedule | Start/end dates, date certainty, venue, city, region, and scheduled/postponed/cancelled/completed status. |
-| Exhibitors | Named companies, product categories, exhibitor count, source edition, and eligible opportunities for AAJ. |
+| Exhibitors | Named companies, product categories, exhibitor count, source edition, and eligible opportunities for the business. |
 | Audience | Footfall, unique visitors where specified, buyer or decision-maker profiles, attendee industries, geography, and B2B/B2C e-commerce presence. |
 | Scale and track record | Exhibition area, conference attendance, previous editions, and published post-show reports. |
 | Participation | Stall pricing and units, minimum space, taxes where stated, delegate charges, booking deadlines, exhibitor enquiry links, sponsorship, speaking, and award opportunities. |
-| AAJ assessment | Industry fit, product suitability, geography, evidence strength, suggested participation options, reasons, and missing information. |
+| Business assessment | Industry fit, product suitability, geography, evidence strength, suggested participation options, reasons, and missing information. |
 | Freshness | Last successful observation, current source failures, changed facts, and pending AI processing. |
 
 Every metric must include value, unit, edition or reporting period, publisher, source URL or document reference, retrieval time, and a supporting excerpt or PDF page where possible. Label organizer projections, organizer-reported historical results, and independently reported results accurately.
