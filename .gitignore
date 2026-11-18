@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/*.sqlite
+data/*.xlsx
+data/discovered_links.json
+data/http_cache/
+.superpowers/
+tmp*/
+.venv/
+data/source_snapshots/
+~*.xlsx
+.env
+.env.*
