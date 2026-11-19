@@ -38,6 +38,16 @@ Open **data/Event_Tracker.xlsx**. Save and close it before each refresh. Refresh
 
 Run `python -m tracker.cli scan` in the installed environment to discover leads from enabled sources in [the registry](config/source_pages.json). The collector records where each link came from. Verify the edition, city and dates against the organizer before promoting a lead to the schedule. When a date is pending, a sourced prior edition can support a planning month.
 
+For a separate personal research pass on directory pages you open yourself, install the optional browser package and launch the local capture tool:
+
+```powershell
+.\.venv\Scripts\python -m pip install -r requirements-personal.txt
+.\.venv\Scripts\python -m tracker.personal_capture --site 10times --url https://10times.com/newdelhi-in/tradeshows
+.\.venv\Scripts\python -m tracker.personal_capture --site whr --url https://gtm.whr.ai/
+```
+
+The script opens visible Chrome and waits for you to navigate. Sign in to WHR with your own account if needed. Press Enter to capture each listing page and `q` to finish. It saves dated links and its browser profile only under ignored `data/personal_capture/`. You can also save a page there and pass `--html-file data/personal_capture/page.html --page-url <original-url>` for offline extraction. A direct browser check reached a 10times challenge and a WHR sign-in page; the tool does not work around either. Captured links are unverified leads, so check the organizer before adding an event to the public tracker.
+
 The [event records](data/verified_events.json), [speaker calls](data/speaker_opportunities.json) and [leadership opportunities](data/leadership_opportunities.json) feed the workbook. The latest evidence pass reduced the `Evidence pending` set from 127 to 118. India ITME 2026 and eight events from FICCI's current calendar were added from organizer-published facts. The FICCI scan staged 38 candidate links; eight became verified event records, while the others still need review or rejection. Check the [source coverage audit](docs/source_coverage_audit_2026-11-18.md), its [domain queue](docs/source_coverage_domains_2026-11-18.csv) and the [source expansion notes](docs/source_expansion_2026-11-19.md) before adding more sources. Reaching 200 scheduled events remains a research goal.
 
 ---

@@ -8,6 +8,7 @@ data/http_cache/
 tmp*/
 .venv/
 data/source_snapshots/
+data/personal_capture/
 ~*.xlsx
 .env
 .env.*
