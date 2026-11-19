@@ -37,6 +37,20 @@ class CollectionTests(unittest.TestCase):
         self.assertIn("2027", included[0]["observed_date_city_text"])
         self.assertIn("2027", included[0]["label"])
 
+    def test_ficci_card_uses_title_and_skips_calendar_actions(self):
+        html = '''<div class="single-list"><div class="main-content">
+        <h3>India Women Trade Fair 2026</h3><h4>Dec 18 - Dec 20, 2026</h4>
+        Bharat Mandapam, New Delhi
+        <a href="/event-details/12345">Event Details</a>
+        <a href="/event/12345">Add To Calendar</a>
+        </div></div>
+        <div class="single-item"><a href="/event-details/99999"><img alt="FICCI: Forthcoming Event"></a></div>'''
+        included, _ = discover_event_links("https://www.ficci.in/event", html)
+        self.assertEqual(len(included), 1)
+        self.assertEqual(included[0]["url"], "https://www.ficci.in/event-details/12345")
+        self.assertEqual(included[0]["label"], "India Women Trade Fair 2026")
+        self.assertIn("Dec 18 - Dec 20, 2026", included[0]["observed_date_city_text"])
+
     def test_scan_sources_deduplicates_links_across_pages(self):
         html = '<a href="https://event.example/home-expo-2027">Home Expo 2027</a>'
         result = scan_sources(

@@ -1,14 +1,28 @@
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
-from openpyxl import load_workbook
+from openpyxl import Workbook, load_workbook
 
 from tracker.store import EventStore
-from tracker.workbook import export_workbook, import_shortlist
+from tracker.workbook import _add_source_health, export_workbook, import_shortlist
 
 
 class WorkbookTests(unittest.TestCase):
+    def test_source_health_lists_registered_source_without_crawl_log(self):
+        source = {"id": "ficci-events", "url": "https://www.ficci.in/event",
+                  "publisher": "FICCI", "enabled": True, "permitted_use": "ALLOW",
+                  "permission_reason": "Public event facts"}
+        with patch("tracker.workbook._load_json") as load:
+            load.side_effect = lambda path, default: [source] if path.name == "source_pages.json" else {}
+            workbook = Workbook()
+            _add_source_health(workbook, [])
+        rows = list(workbook["Source Health"].values)
+        self.assertEqual(rows[1][0], "ficci-events")
+        self.assertEqual(rows[1][4], "NO CRAWL LOG")
+        self.assertEqual(rows[1][6], "ENABLED")
+
     def test_shortlist_mark_round_trip(self):
         with tempfile.TemporaryDirectory(dir=Path.cwd()) as directory:
             root = Path(directory)

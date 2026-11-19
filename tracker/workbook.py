@@ -93,6 +93,15 @@ def _add_source_health(workbook, events):
                       result.get("outcome", "UNKNOWN"), result.get("pages_fetched", 0),
                       ("ENABLED" if source.get("enabled") else source.get("permitted_use")) or "UNREGISTERED",
                       result.get("checked_at"), notes])
+    for key, source in sorted(registry.items()):
+        if key in scanned:
+            continue
+        url = source.get("url", "")
+        sheet.append([key, source.get("publisher"), url,
+                      (urlsplit(url).hostname or "").removeprefix("www."),
+                      "NO CRAWL LOG", 0,
+                      "ENABLED" if source.get("enabled") else source.get("permitted_use"),
+                      None, source.get("permission_reason", "")])
     evidence_urls = {url for event in events for url in (
         event["source_url"], event["details"].get("source_crosscheck_url"), event["details"].get("prior_url")
     ) if url}

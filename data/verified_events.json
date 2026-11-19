@@ -5520,5 +5520,31 @@
       "suitability": "GREEN",
       "suitability_reason": "E-commerce brands and partners with fulfilment needs."
     }
+  },
+  {
+    "key": "india-itme-greater-noida-2026",
+    "name": "India ITME 2026",
+    "city": "Greater Noida",
+    "start": "2026-12-04",
+    "end": "2026-12-09",
+    "url": "https://corporate.india-itme.com/itme2026/",
+    "details": {
+      "region": "Delhi NCR",
+      "venue": "India Exposition Mart Ltd",
+      "organizer": "India ITME Society",
+      "edition": "12th",
+      "event_type": "EXHIBITION",
+      "industry": "Textile machinery, textile engineering and allied manufacturing",
+      "exhibitors": "1,800+ expected by organizer",
+      "footfall": "150,000+ visitors expected by organizer across six days",
+      "suitability": "GREEN",
+      "suitability_reason": "Textile machinery and component exhibitors may need warehousing and transportation; assess individual product lines.",
+      "participation": "Visit; exhibit",
+      "missing_information": "Confirmed exhibitor list, actual attendance, participation terms and speaker application route.",
+      "audit_status": "Organizer date checked",
+      "audit_note": "Organizer publishes the 12th edition for 4-9 December 2026 at India Exposition Mart, Greater Noida. Exhibitor and visitor figures are projections, not actual attendance.",
+      "date_certainty": "ORGANIZER PUBLISHED",
+      "last_checked": "2026-11-19"
+    }
   }
 ]

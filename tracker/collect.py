@@ -189,6 +189,17 @@ def discover_event_links(base_url: str, html: str) -> tuple[list[dict], list[dic
         url = canonicalize_url(urljoin(base_url, href))
         label = anchor.get_text(" ", strip=True)
         context = anchor.parent.get_text(" ", strip=True) if anchor.parent else label
+        if (urlsplit(base_url).hostname or "").removeprefix("www.") == "ficci.in":
+            path = urlsplit(url).path
+            if path.startswith("/event/") and label.casefold() == "add to calendar":
+                continue
+            if path.startswith("/event-details/"):
+                card = anchor.find_parent(class_="single-list")
+                title = card.find("h3") if card else None
+                if title is None:
+                    continue
+                label = title.get_text(" ", strip=True)
+                context = card.get_text(" ", strip=True)
         context = re.sub(r"\s+", " ", context).strip()[:500]
         dated_event_context = DATED_EVENT_CONTEXT.search(context)
         reason = _rejection_reason(url, label, base_url)
