@@ -23,6 +23,21 @@ class WorkbookTests(unittest.TestCase):
         self.assertEqual(rows[1][4], "NO CRAWL LOG")
         self.assertEqual(rows[1][6], "ENABLED")
 
+    def test_source_health_uses_current_registry_reason(self):
+        source = {"id": "whr-ai", "url": "https://whr.ai/",
+                  "publisher": "WHR.AI", "enabled": False,
+                  "permitted_use": "DISALLOW", "permission_reason": "Current API limits"}
+        report = {"sources": [{"source_id": "whr-ai", "url": source["url"],
+                               "outcome": "BLOCKED", "error": "Old pricing note",
+                               "permission_reason": "Old pricing note"}]}
+        with patch("tracker.workbook._load_json") as load:
+            load.side_effect = lambda path, default: [source] if path.name == "source_pages.json" else report
+            workbook = Workbook()
+            _add_source_health(workbook, [])
+        notes = list(workbook["Source Health"].values)[1][8]
+        self.assertIn("Current API limits", notes)
+        self.assertNotIn("Old pricing note", notes)
+
     def test_shortlist_mark_round_trip(self):
         with tempfile.TemporaryDirectory(dir=Path.cwd()) as directory:
             root = Path(directory)

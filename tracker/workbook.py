@@ -85,8 +85,9 @@ def _add_source_health(workbook, events):
     scanned = {row["source_id"]: row for row in report.get("sources", []) if row.get("source_id")}
     for key, result in sorted(scanned.items()):
         source = registry.get(key, {})
-        reason = result.get("permission_reason") or source.get("permission_reason")
-        notes = " | ".join(dict.fromkeys(filter(None, [result.get("error"), reason])))
+        reason = source.get("permission_reason") or result.get("permission_reason")
+        error = result.get("error") if source.get("enabled") or not source else None
+        notes = " | ".join(dict.fromkeys(filter(None, [error, reason])))
         url = result.get("url") or source.get("url")
         sheet.append([key, result.get("publisher") or source.get("publisher"), url,
                       (urlsplit(url).hostname or "").removeprefix("www.") if url else "",

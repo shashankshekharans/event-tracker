@@ -237,12 +237,13 @@
     "scope": "India; multi-industry",
     "enabled": false,
     "permitted_use": "DISALLOW",
-    "permission_reason": "Terms prohibit automated scripts/web crawlers and restrict content to personal non-commercial use; AAJ use is commercial planning.",
+    "permission_reason": "Terms prohibit automated scripts and web crawlers and limit use of 10times data to personal, non-commercial purposes. A local Python script does not change those restrictions.",
     "terms_url": "https://10times.com/terms-of-service",
-    "robots_review": "2026-11-12: terms reviewed; excluded",
+    "robots_review": "2026-11-19: terms rechecked; automated commercial collection remains excluded",
     "request_delay_seconds": 0,
     "max_pages": 0,
-    "max_depth": 0
+    "max_depth": 0,
+    "reviewed_at": "2026-11-19"
   },
   {
     "id": "whr-ai",
@@ -252,12 +253,13 @@
     "scope": "India; multi-industry",
     "enabled": false,
     "permitted_use": "DISALLOW",
-    "permission_reason": "Current service is paid; no paid subscription is in scope.",
-    "terms_url": "https://whr.ai/",
-    "robots_review": "2026-11-12: product/pricing reviewed; excluded",
+    "permission_reason": "Terms prohibit automated scraping except through a licensed API and require prior approval for local caching. The advertised free API is limited to the next 30 days and cannot cover the tracker horizon through 2027.",
+    "terms_url": "https://whr.ai/terms-of-service",
+    "robots_review": "2026-11-19: terms, API free-tier scope and pricing reviewed; direct crawling excluded",
     "request_delay_seconds": 0,
     "max_pages": 0,
-    "max_depth": 0
+    "max_depth": 0,
+    "reviewed_at": "2026-11-19"
   },
   {
     "id": "allevents",
